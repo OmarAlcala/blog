@@ -9,3 +9,5 @@ hoy hablaremos de su historia
 mide 1.79 mts
 
 termino la maestria en el 2019
+
+probando el git reset HEAD
