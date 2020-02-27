@@ -4,3 +4,15 @@ body
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
 }
+#conteiner
+{
+width: 70%;
+padding: 1cm;
+text-align: left;
+border: 1px solid coral;
+margin: 0 auto;
+}
+#container H1
+{
+font-size: 20px;
+}
